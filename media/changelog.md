@@ -1,5 +1,5 @@
-# X50 Media Bridge 0.2.5-carplay-safe
+# X50 Media Bridge 0.2.11-embedded-settings-font
 
-- Magisk module versionCode: 7
-- SHA-256: `7e808f64845df4c1e5b7567277f406a1df91e4e8fb7a458637c83ccd0ec842af`
-- Module ZIP: https://raw.githubusercontent.com/AlteroAscension/x50-media-bridge-releases/main/media/releases/media-v0.2.5-carplay-safe/x50-media-bridge-magisk.zip
+- Magisk module versionCode: 13
+- SHA-256: `b897db712fa82c5a545cedb531de91526388a0966e477473d6b89f76263dfd5e`
+- Module ZIP: https://raw.githubusercontent.com/AlteroAscension/x50-media-bridge-releases/main/media/releases/media-v0.2.11-embedded-settings-font/x50-media-bridge-magisk.zip
